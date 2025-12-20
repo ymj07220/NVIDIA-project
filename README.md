@@ -4,7 +4,7 @@
 
 ## 🎯 프로젝트 목표
 - **IllustrisTNG** 시뮬레이션 데이터를 활용한 우주 구조 그래프 모델링
-- **GNN(Graph Neural Networks)**을 통한 암흑물질 질량 추론 가속화
+- **GNN(Graph Neural Networks)** 을 통한 암흑물질 질량 추론 가속화
 - NVIDIA GPU 최적화를 통한 전통적 시뮬레이션 대비 성능 혁신
 
 ## 🛠 기술 스택
